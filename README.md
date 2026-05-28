@@ -54,9 +54,12 @@ Currently working on:
 
 I enjoy combining technology, business systems, and creative thinking to build impactful products.
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Gofth26&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Gofth26?style=social)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gofth26&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gofth26&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gofth26&theme=tokyonight)](https://git.io/streak-stats)
