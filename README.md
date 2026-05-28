@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Solomon Phelembe
 
-<!--
-**Gofth26/Gofth26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer | Flutter & Firebase Engineer
 
-Here are some ideas to get you started:
+I build modern mobile applications focused on solving real-world operational problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+- 📦 Ahead — Retail expiry intelligence & inventory visibility platform
+- ⚡ Electricity Tracker — Smart prepaid electricity monitoring app
+- 📱 Cross-platform Flutter applications
+- 🔥 Firebase backend systems
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile Development
+- Flutter
+- Dart
+
+### Backend & Cloud
+- Firebase
+- Firestore
+- Firebase Auth
+- Cloud Functions
+
+### Other Tools
+- Git & GitHub
+- REST APIs
+- Barcode/QR Systems
+- UI/UX Design
+
+---
+
+## 📈 Current Focus
+
+- Scalable Flutter architecture
+- Real-time systems
+- Inventory intelligence
+- Dashboard UI/UX
+- SaaS mobile products
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://za.linkedin.com/in/solomon-phelembe-57271b1a4
+- Email: chrisspk803@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy combining technology, business systems, and creative thinking to build impactful products.
